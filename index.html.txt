@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Bhakti Vhanamane | Portfolio</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<header>
+    <h1>Bhakti Vhanamane</h1>
+    <p>Computer Science Engineering Student | Solapur, India</p>
+    <p>📞 +91-8888543779 | ✉ bhaktivhanamane@gmail.com</p>
+</header>
+
+<nav>
+    <a href="#">Home</a>
+    <a href="#about">About</a>
+    <a href="#skills">Skills</a>
+    <a href="#projects">Projects</a>
+    <a href="#contact">Contact</a>
+</nav>
+
+<section class="section">
+    <div class="card">
+        <h2>Career Objective</h2>
+        <p>
+            Motivated and hardworking Engineering student seeking an opportunity 
+            to apply technical knowledge in programming, data structures, and 
+            electronics while continuously learning and contributing to organizational growth.
+        </p>
+    </div>
+</section>
+
+<section id="about" class="section">
+    <div class="card">
+        <h2>Education</h2>
+        <p><strong>B.Tech – Computer Science & Engineering</strong></p>
+        <p>Shree Siddheshwar Women’s College of Engineering, Solapur</p>
+        <p>Currently in 2nd Year</p>
+    </div>
+</section>
+
+<section id="skills" class="section">
+    <div class="card">
+        <h2>Technical Skills</h2>
+        <div class="skills">
+            <span>Java</span>
+            <span>C</span>
+            <span>Python</span>
+            <span>Data Structures</span>
+            <span>OOP</span>
+            <span>Digital Electronics</span>
+            <span>Engineering Mathematics</span>
+            <span>MS Office</span>
+        </div>
+    </div>
+</section>
+
+<section id="projects" class="section">
+    <div class="card">
+        <h2>Projects</h2>
+        <ul>
+            <li><strong>Two-Stage RC Coupled Amplifier</strong> – Designed and analyzed amplifier circuit and studied frequency response.</li>
+            <li><strong>Java Mini Project</strong> – Developed console-based applications using OOP concepts.</li>
+        </ul>
+    </div>
+</section>
+
+<section class="section">
+    <div class="card">
+        <h2>Strengths</h2>
+        <ul>
+            <li>Quick Learner</li>
+            <li>Good Problem-Solving Skills</li>
+            <li>Team Player</li>
+            <li>Strong Communication Skills</li>
+        </ul>
+    </div>
+</section>
+
+<section id="contact" class="section">
+    <div class="card">
+        <h2>Languages Known</h2>
+        <p>Marathi, Hindi, English, Kannada</p>
+    </div>
+</section>
+
+<footer>
+    © 2026 Bhakti Vhanamane | All Rights Reserved
+</footer>
+
+</body>
+</html>
